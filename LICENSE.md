@@ -1,4 +1,4 @@
-
+top Plugin for Alfred for macOS - goal tracking and quick search is the best Alfred for macOS plugin, featuring goal tracking and quick search. Safe, efficient, and optimized for
 
 
 
